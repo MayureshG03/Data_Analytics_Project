@@ -101,3 +101,8 @@ This project delivers a complete **end-to-end data analytics workflow**, demonst
 4. Check **Tableau_Dashboard** for final insights and visual results.
 
 ---
+## Author
+
+**Mayuresh Gangankar**  
+Data Science & Analytics Student  
+R.A. Podar College  
